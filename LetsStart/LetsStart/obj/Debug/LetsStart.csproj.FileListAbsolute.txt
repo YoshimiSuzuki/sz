@@ -7,3 +7,12 @@ c:\users\yoshimi\documents\visual studio 2013\Projects\LetsStart\LetsStart\bin\D
 c:\users\yoshimi\documents\visual studio 2013\Projects\LetsStart\LetsStart\bin\Debug\LetsStart.pdb
 c:\users\yoshimi\documents\visual studio 2013\Projects\LetsStart\LetsStart\obj\Debug\LetsStart.exe
 c:\users\yoshimi\documents\visual studio 2013\Projects\LetsStart\LetsStart\obj\Debug\LetsStart.pdb
+C:\Users\yoshimi\git\sz\LetsStart\LetsStart\bin\Debug\LetsStart.exe.config
+C:\Users\yoshimi\git\sz\LetsStart\LetsStart\obj\Debug\LetsStart.exe
+C:\Users\yoshimi\git\sz\LetsStart\LetsStart\obj\Debug\LetsStart.pdb
+C:\Users\yoshimi\git\sz\LetsStart\LetsStart\bin\Debug\LetsStart.exe
+C:\Users\yoshimi\git\sz\LetsStart\LetsStart\bin\Debug\LetsStart.pdb
+C:\Users\yoshimi\git\sz\LetsStart\LetsStart\obj\Debug\LetsStart.csprojResolveAssemblyReference.cache
+C:\Users\yoshimi\git\sz\LetsStart\LetsStart\obj\Debug\LetsStart.Form1.resources
+C:\Users\yoshimi\git\sz\LetsStart\LetsStart\obj\Debug\LetsStart.Properties.Resources.resources
+C:\Users\yoshimi\git\sz\LetsStart\LetsStart\obj\Debug\LetsStart.csproj.GenerateResource.Cache

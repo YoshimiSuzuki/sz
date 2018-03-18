@@ -35,6 +35,8 @@ namespace LetsStart
                   "dollar"
             } ;
 
+            Console.WriteLine("test comment テストコメントです！");
+
             coin i; // 列挙型の変数を宣言
 
             // 列挙を使ってループする
