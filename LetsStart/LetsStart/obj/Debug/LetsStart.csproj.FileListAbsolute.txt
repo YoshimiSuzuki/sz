@@ -1,0 +1,9 @@
+c:\users\yoshimi\documents\visual studio 2013\Projects\LetsStart\LetsStart\bin\Debug\LetsStart.exe.config
+c:\users\yoshimi\documents\visual studio 2013\Projects\LetsStart\LetsStart\obj\Debug\LetsStart.csprojResolveAssemblyReference.cache
+c:\users\yoshimi\documents\visual studio 2013\Projects\LetsStart\LetsStart\obj\Debug\LetsStart.Form1.resources
+c:\users\yoshimi\documents\visual studio 2013\Projects\LetsStart\LetsStart\obj\Debug\LetsStart.Properties.Resources.resources
+c:\users\yoshimi\documents\visual studio 2013\Projects\LetsStart\LetsStart\obj\Debug\LetsStart.csproj.GenerateResource.Cache
+c:\users\yoshimi\documents\visual studio 2013\Projects\LetsStart\LetsStart\bin\Debug\LetsStart.exe
+c:\users\yoshimi\documents\visual studio 2013\Projects\LetsStart\LetsStart\bin\Debug\LetsStart.pdb
+c:\users\yoshimi\documents\visual studio 2013\Projects\LetsStart\LetsStart\obj\Debug\LetsStart.exe
+c:\users\yoshimi\documents\visual studio 2013\Projects\LetsStart\LetsStart\obj\Debug\LetsStart.pdb
